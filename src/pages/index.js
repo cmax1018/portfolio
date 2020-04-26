@@ -7,8 +7,8 @@ const MainPage = () => {
   return (
     <Layout>
       <Head title="Home"/>
-      <h1>wazzup</h1>
-      <h2>yoyoyo</h2>
+      <h1>Hello!</h1>
+      <h2>My name is Max, and I'm a programmer and musician.</h2>
       <p>Need me? <Link to="/contact">Contact me.</Link></p>
     </Layout>
   )
