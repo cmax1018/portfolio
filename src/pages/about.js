@@ -8,8 +8,8 @@ const AboutPage = () => {
   <Layout>
     <Head title="About"/>
     <h1>About Me</h1>
-    <h2>Max Van Buskirk</h2>
-    <p1>I am ~the guy~</p1>
+    <h2>Fullstack Engineer and Musician</h2>
+    <p1>Technologies: Node, React, Javascript, Express, PostgreSQL, MongoDB</p1>
     <p>Need me? <Link to="/contact">Contact me.</Link></p>
   </Layout>
   )
